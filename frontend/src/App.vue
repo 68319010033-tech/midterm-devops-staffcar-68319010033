@@ -52,7 +52,7 @@
       </tbody>
     </table>
 
-    <footer>จัดทำโดย: สมชาย ใจดี | รหัสนักศึกษา: 67xxxxxxxx | staffcar API v1.0.0</footer>
+    <footer>จัดทำโดย: อชิรวิชญ์ พวงพิลา | รหัสนักศึกษา: 68319010033 | staffcar API v1.0.0</footer>
   </div>
 </template>
 
