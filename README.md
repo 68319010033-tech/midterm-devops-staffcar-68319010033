@@ -29,3 +29,6 @@ docker compose -f docker-compose.prod.yml up -d
 \`\`\`
 
 Docker Hub: https://hub.docker.com/r/yourdockerhub/staffcar-api
+
+[CI](https://github.com/68319010033-tech/midterm-devops-staffcar-68319010033/actions/workflows/ci.yml/badge.svg)
+![CD](https://github.com/68319010033-tech/midterm-devops-staffcar-68319010033/actions/workflows/cd.yml/badge.svg)
