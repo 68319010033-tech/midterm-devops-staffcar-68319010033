@@ -3,7 +3,7 @@ WORKDIR /app
 
 # Copy package files ก่อน (ใช้ cache layer)
 COPY package*.json ./
-RUN npm ci --omit=dev
+RUN npm install --omit=dev
 
 # Copy source code
 COPY . .
